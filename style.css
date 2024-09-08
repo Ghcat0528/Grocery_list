@@ -1,0 +1,62 @@
+header {
+  color: grey;
+  margin-left: 176px;
+}
+section {
+  background-color: cadetblue;
+  padding: 50px;
+  display: inline-flex;
+  color: beige;
+  margin-left: 150px;
+}
+H3 {
+  color: dimgray;
+  font: 19px "Arial";
+}
+.Canned {
+  background-color: beige;
+  margin: 30px;
+  border: cadetblue;
+  border-style: dotted;
+  padding: 35px;
+  display: table;
+  float: left;
+}
+.Dry-Goods {
+  background-color: pink;
+  margin: 30px;
+  margin-left: 300px;
+  border: cadetblue;
+  border-style: dotted;
+  padding: 36px;
+  display: table;
+}
+
+.Fruits {
+  background-color: pink;
+  margin: 30px;
+  border: cadetblue;
+  border-style: dotted;
+  padding: 45px;
+  display: table;
+  float: left;
+}
+.Vegetables {
+  background-color: beige;
+  margin: 30px;
+  margin-left: 300px;
+  border: cadetblue;
+  border-style: dotted;
+  padding: 45px;
+  display: table;
+}
+.Pantry-Img {
+  padding-left: 89px;
+  padding-bottom: 45px;
+}
+.Produce-Img {
+  height: 225px;
+  padding-bottom: 45px;
+  padding-left: 67px;
+  margin: 40px;
+}
